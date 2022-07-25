@@ -1,0 +1,3 @@
+Place the most recent gerber in here labeled with the board AND rev on it to make board orders easy and transparent.
+
+DELETE AFTER FILLED!
